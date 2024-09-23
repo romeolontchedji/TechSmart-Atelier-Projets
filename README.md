@@ -19,7 +19,7 @@ Dans ce dépôt, vous trouverez :
 ## Ressources supplémentaires :
 
 - **Chaîne YouTube** : Retrouvez les tutoriels détaillés sur [TechSmart Atelier](http://www.youtube.com/@TechSmartAtelier)
-- **Page Facebook** : Suivez-nous pour des mises à jour et astuces sur [TechSmart Atelier Facebook](https://www.facebook.com/techsmartatelier)
+- **Page Facebook** : Suivez-nous pour des mises à jour et astuces sur [TechSmart Atelier](https://www.facebook.com/techsmartatelier)
 
 ## Contribuer
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce repo ou proposer des projets, n'hésitez pas à soumettre une pull request ou à ouvrir une issue.
